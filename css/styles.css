@@ -1,0 +1,17 @@
+body
+  background-color: cyan
+}
+img{
+  border-radius: 50%;
+  width: 70%;
+}
+p{
+  color: red;
+  text-align: center;
+}
+h4{
+  color: #e9b2bc;
+  front-size: 20px
+  front-weight:bold
+  front-style: italic;
+}
